@@ -5,7 +5,7 @@ A Sudoku Game with a recursive backtracking solver!
 - Import puzzles
 - Live Hints
 - Auto Solver
-- Win Checker
+- [Win Checker](#popup)
 
 ### Interface:
 ![Interface](https://i.imgur.com/by2uE9Q.png)
