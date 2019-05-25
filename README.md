@@ -2,13 +2,18 @@
 A Sudoku Game with a recursive backtracking solver!
 
 ### Features:
-- [Import puzzles]()
+
+- [Full GUI Interface](#interface)
+- [Import puzzles](#import-puzzles)
 - [Live Hints](#hints)
-- Auto Solver
-- [Win Checker](#puzzle checker)
+- [Win Checker](#puzzle-checker)
+- [Auto Solver](#auto-solver)
 
 ### Interface:
 ![Interface](https://i.imgur.com/by2uE9Q.png)
+
+### Import Puzzles:
+![Import](https://i.imgur.com/ZOPXGqT.png)
 
 ### Hints:
 ![Hints](https://i.imgur.com/OnCuC1k.png)
