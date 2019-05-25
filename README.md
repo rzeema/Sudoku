@@ -11,7 +11,7 @@ A Sudoku Game with a recursive backtracking solver!
 
 ### Interface:
 
-![Interface](https://i.imgur.com/by2uE9Q.png)
+![Interface](https://i.imgur.com/WQRWU5p.png)
 
 ### Import Puzzles:
 
