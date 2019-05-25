@@ -62,7 +62,7 @@ public class sudoku extends JFrame implements ActionListener, KeyListener{
         //buttonPanel
         buttonPanel = new JPanel();
         
-        siteIcon = new ImageIcon("C:/Users/Jack/Desktop/ICS4U/Culminating/site.png");
+        siteIcon = new ImageIcon("icons/import.png");
         siteIcon = new ImageIcon(siteIcon.getImage().getScaledInstance(20, 20, java.awt.Image.SCALE_SMOOTH));
         site = new JButton(siteIcon);
         site.setPreferredSize(new Dimension(30, 30));
@@ -89,7 +89,7 @@ public class sudoku extends JFrame implements ActionListener, KeyListener{
         buttonPanel.add(clear);
         
         check = new JButton("Check");
-        check.setPreferredSize(new Dimension(70, 30));
+        check.setPreferredSize(new Dimension(75, 30));
         check.addActionListener(this);
         check.setToolTipText("Checks if user is correct");
         buttonPanel.add(check);
@@ -138,7 +138,7 @@ public class sudoku extends JFrame implements ActionListener, KeyListener{
         hint.addActionListener(toggleListener);
         buttonPanel.add(hint);
         
-        helpIcon = new ImageIcon("C:/Users/Jack/Desktop/ICS4U/Culminating/help.png");
+        helpIcon = new ImageIcon("icons/help.png");
         helpIcon = new ImageIcon(helpIcon.getImage().getScaledInstance(20, 20, java.awt.Image.SCALE_SMOOTH));
         info = new JButton(helpIcon);
         info.setPreferredSize(new Dimension(30, 30));
