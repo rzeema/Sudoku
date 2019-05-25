@@ -2,7 +2,7 @@
 A Sudoku Game with a recursive backtracking solver!
 
 ### Features:
-![RZ64](https://i.imgur.com/b6MccLb.jpg)
+![Interface](https://imgur.com/by2uE9Q)
 
 - 64 Key layout
 - Hotswappable Sockets (Kailh)
